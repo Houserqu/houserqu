@@ -8,6 +8,6 @@
 
 联系我：
 - wx: houserqu
-- email: houserqu@qq.com | houserqu@tencent.com
+- email: houserqu@qq.com
 
 > Technology && Art
